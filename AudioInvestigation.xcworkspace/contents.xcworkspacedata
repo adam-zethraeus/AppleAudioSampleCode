@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:AVAudioPlayerNode VoiceProcessing/AVEchoTouch.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Custom Audio Player/SampleBufferPlayer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UsingAVAudioEngineforPlaybackMixingandRecordingAVAEMixerSample/AVAEMixerSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Capturing Stereo Audio/StereoAudioCapture.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Custom Audio Effects/AUv3Filter.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Signal Generator/SignalGenerator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Offline Audio Processing/Performing Offline Audio Processing.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Audio Encoding Decoding/ACEncodeDecodeAudio.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Biquadratic Filters Music Loop/vDSP-Biquad-Coefficients-Calculator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Core Audio Taps System Audio/AudioTapSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Live Audio Classifier/ClassifySound.xcodeproj">
+   </FileRef>
+</Workspace>
